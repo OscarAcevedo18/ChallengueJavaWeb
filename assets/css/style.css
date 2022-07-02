@@ -1,0 +1,49 @@
+html {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(https://img.freepik.com/vektoren-kostenlos/nahtloser-hintergrund-des-videospiels_6997-1230.jpg?w=360);
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+    font-family: 'Zen Antique Soft', serif;
+}
+
+.prod {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 15px;
+    padding-bottom: 1rem;
+    background-image: url(https://i.pinimg.com/236x/d2/09/70/d209700e0be6c768fff3a950bbf817c7.jpg);
+}
+
+.image {
+    width: 60%;
+}
+
+.bar {
+    border-radius: 5px;
+    margin: 0.4rem;
+    padding: 0.2rem;
+}
+
+.boton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: #d0d01a;
+    padding: 0.4rem;
+    margin: 1rem;
+}
