@@ -37,7 +37,14 @@ body {
     padding: 0.2rem;
 }
 
-.boton {
+.colours {
+    border-radius: 5px;
+    margin: 0.4rem;
+    padding: 0.2rem;
+    width: 10.8rem;
+}
+
+.btn {
     display: flex;
     justify-content: center;
     align-items: center;
