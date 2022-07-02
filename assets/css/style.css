@@ -47,3 +47,49 @@ body {
     padding: 0.4rem;
     margin: 1rem;
 }
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin-left: 0.5rem;
+    background-image: url(https://i.pinimg.com/236x/d2/09/70/d209700e0be6c768fff3a950bbf817c7.jpg);
+}
+
+.pal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.radius {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: white;
+    border: 2px solid;
+    margin-left: 0.5rem;
+    width: 30px;
+    height: 30px;
+}
+
+.cant {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    width: 10rem;
+}
+
+.tot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3rem;
+    width: 10rem;
+}
